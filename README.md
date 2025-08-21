@@ -1,4 +1,4 @@
-# GreegYoungTechX-github.io
+# GregYoungTechX.github.io
 
 ![GregYoungTechX Banner](./banner.png)
 
