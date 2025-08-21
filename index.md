@@ -1,5 +1,3 @@
-# Greg Young — GregYoungTechX  
-
 **Technology Strategist | CEO/CTO Advisor | Global Innovation & Deep-Tech Leadership**  
 
 ---
