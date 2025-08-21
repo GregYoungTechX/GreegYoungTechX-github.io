@@ -1,0 +1,8 @@
+theme: minima
+title: Greg Young — Technology Strategist
+description: Technology Executive | CEO/CTO Advisor | Deep-Tech Leadership
+
+minima:
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/greg-young-a071266" }
+    - { platform: github,   user_url: "https://github.com/GregYoungTechX" }
